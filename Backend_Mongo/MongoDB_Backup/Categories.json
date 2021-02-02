@@ -1,0 +1,6 @@
+{"_id":{"$oid":"5d0b70e68881fbe917599ee9"},"name":"Affen"}
+{"_id":{"$oid":"5d10aff11d04871940647e26"},"name":"Pferde"}
+{"_id":{"$oid":"5d10affa1d04871940647e27"},"name":"Hunde"}
+{"_id":{"$oid":"5d10afff1d04871940647e28"},"name":"Katzen"}
+{"_id":{"$oid":"5d11e951c0752d13dcb9ca74"},"name":"Fische"}
+{"_id":{"$oid":"5d1c815971fa1032d0249e98"},"name":"Insekten"}

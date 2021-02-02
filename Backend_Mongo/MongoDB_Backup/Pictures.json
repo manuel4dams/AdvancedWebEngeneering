@@ -1,0 +1,28 @@
+{"_id":{"$oid":"5d0b713f1b08c04230002fdb"},"name":"Schimpanse","url":"http://www.lexikon-affen.de/schimpanse.jpg","category":"Affen"}
+{"_id":{"$oid":"5d11e14dc0752d13dcb9ca69"},"name":"Gorilla","url":"https://img.purch.com/w/660/aHR0cDovL3d3dy5saXZlc2NpZW5jZS5jb20vaW1hZ2VzL2kvMDAwLzA0NC82MzUvb3JpZ2luYWwvZ29yaWxsYS5qcGc=","category":"Affen"}
+{"_id":{"$oid":"5d11e174c0752d13dcb9ca6a"},"name":"Orang Utan","url":"https://www.welt.de/img/bildergalerien/mobile183961192/6632506517-ci102l-w1024/Singing-Opera-Orang-Utan.jpg","category":"Affen"}
+{"_id":{"$oid":"5d11e1b2c0752d13dcb9ca6b"},"name":"Bonobo","url":"https://upload.wikimedia.org/wikipedia/commons/e/e2/Apeldoorn_Apenheul_zoo_Bonobo.jpg","category":"Affen"}
+{"_id":{"$oid":"5d11e20cc0752d13dcb9ca6c"},"name":"Javaneraffe","url":"https://upload.wikimedia.org/wikipedia/commons/5/53/Ngarai_Sianok_sumatran_monkey.jpg","category":"Affen"}
+{"_id":{"$oid":"5d11e253c0752d13dcb9ca6d"},"name":"Bärenmakak","url":"https://upload.wikimedia.org/wikipedia/commons/c/c5/Tierpark_Chemnitz_-_B%C3%A4renmakak-8589.jpg","category":"Affen"}
+{"_id":{"$oid":"5d11e282c0752d13dcb9ca6e"},"name":"BartAffe","url":"http://view.stern.de/de/picture/2564713/primaten-affen-bartaffen-wanderu-bartaffe-940.jpg","category":"Affen"}
+{"_id":{"$oid":"5d11e2b5c0752d13dcb9ca6f"},"name":"Pavian","url":"http://view.stern.de/de/picture/3572612/tierportrait-affe-zoo-pavian-primaten-pavian-940.jpg","category":"Affen"}
+{"_id":{"$oid":"5d11e8c4c0752d13dcb9ca70"},"name":"Sheltie","url":"https://cfbrh-hh.de/media/rassen/tricolour1.jpg","category":"Hunde"}
+{"_id":{"$oid":"5d11e8ebc0752d13dcb9ca71"},"name":"Schäferhund","url":"https://www.schaeferhundseite.de/wp-content/uploads/2014/07/Sch%C3%A4ferhund.jpg","category":"Hunde"}
+{"_id":{"$oid":"5d11e911c0752d13dcb9ca72"},"name":"Boxer","url":"https://cdn.pixabay.com/photo/2018/05/14/11/37/boxer-3399598_960_720.jpg","category":"Hunde"}
+{"_id":{"$oid":"5d11e93ac0752d13dcb9ca73"},"name":"Mollosuss","url":"https://i.ytimg.com/vi/ly1t5SkhcHw/maxresdefault.jpg","category":"Hunde"}
+{"_id":{"$oid":"5d11e996c0752d13dcb9ca75"},"name":"Ägyptische Mau","url":"https://www.smart-animals.de/wp-content/uploads/2017/01/%C3%A4gyptische-mau.jpg","category":"Katzen"}
+{"_id":{"$oid":"5d11e9b6c0752d13dcb9ca76"},"name":"Abessinier","url":"https://www.royal-canin.de/stories/wp-content/uploads/2017/05/shutterstock_427798186.jpg","category":"Katzen"}
+{"_id":{"$oid":"5d11e9f4c0752d13dcb9ca77"},"name":"Burmilla","url":"https://bowwowinsurance.com.au/wp-content/uploads/2018/11/burmilla-cat-sitting-isolated-thumb-700x700.jpg","category":"Katzen"}
+{"_id":{"$oid":"5d11ea48c0752d13dcb9ca78"},"name":"Clown Fisch","url":"https://m.secure.liveaquaria.com/images/categories/large/lg_95365_Picasso_Percula_Clownfish_One_Side.jpg","category":"Fische"}
+{"_id":{"$oid":"5d1c817871fa1032d0249e99"},"name":"Ameise","url":"https://www.br.de/themen/wissen/ameisen-insekten-ameisenstaat-104~_v-img__16__9__xl_-d31c35f8186ebeb80b0cd843a7c267a0e0c81647.jpg?version=8d01b","category":"Insekten"}
+{"_id":{"$oid":"5d1c81a071fa1032d0249e9a"},"name":"Gottesanbeterin","url":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Mantid_August_2007-2.jpg/300px-Mantid_August_2007-2.jpg","category":"Insekten"}
+{"_id":{"$oid":"5d1c81ec71fa1032d0249e9b"},"name":"Scarabeus","url":"https://previews.123rf.com/images/vitalisg/vitalisg1512/vitalisg151200007/49583411-dung-beetle-scarabeus-sacer-isolated-on-white-background.jpg","category":"Insekten"}
+{"_id":{"$oid":"5d1c821c71fa1032d0249e9c"},"name":"Biene","url":"https://www.augsburger-allgemeine.de/img/donauwoerth/crop53169991/1389567493-cv16_9-w940/Biene2.jpg","category":"Insekten"}
+{"_id":{"$oid":"5d1c823c71fa1032d0249e9d"},"name":"Wespe","url":"https://apps-cloud.n-tv.de/img/4074881-1354616606000/16-9/750/Wespe-fleisch.jpg","category":"Insekten"}
+{"_id":{"$oid":"5d1c827171fa1032d0249e9e"},"name":"Weberknecht","url":"https://wamiki.de/wp-content/uploads/2017/09/phalangium_opilio-webe_fmt-1024x733.jpeg","category":"Insekten"}
+{"_id":{"$oid":"5d1c828e71fa1032d0249e9f"},"name":"Vogelspinne","url":"https://static.geo.de/bilder/40/11/72112/article_image_big/riesen-vogelspinne-c-1205553.jpg","category":"Insekten"}
+{"_id":{"$oid":"5d1c82dc71fa1032d0249ea0"},"name":"Tarantel","url":"https://bilder.t-online.de/b/84/56/73/34/id_84567334/tid_da/suedrussische-taranteln-leben-auch-in-der-tuerkei-dem-kaukasus-zwischen-russland-und-zentralasien-china-und-korea-.jpg","category":"Insekten"}
+{"_id":{"$oid":"5d1c830171fa1032d0249ea1"},"name":"Marienkäfer","url":"https://www.br.de/kinder/marienkaefer-132~_v-img__16__9__xl_-d31c35f8186ebeb80b0cd843a7c267a0e0c81647.jpg?version=a5f59","category":"Insekten"}
+{"_id":{"$oid":"5d1c832571fa1032d0249ea2"},"name":"Fliege","url":"https://www.deutschlandfunkkultur.de/media/thumbs/1/192a47c83eabbb1e4e69a4b0708527e7v1_max_635x357_b3535db83dc50e27c1bb1392364c95a2.jpg?key=ba3128","category":"Insekten"}
+{"_id":{"$oid":"5d1c834f71fa1032d0249ea3"},"name":"Zecke","url":"https://p5.focus.de/img/natur/origs10835477/1795448111-w630-h354-o-q75-p5/compressed-3306fd57-0a61-484e-902b-555b12ddc0c4.jpg","category":"Insekten"}
+{"_id":{"$oid":"5d1c836771fa1032d0249ea4"},"name":"Regenwurm","url":"https://www.stuttgarter-zeitung.de/media.media.dd48f8c0-cf0d-43f3-b416-6ffb168c037d.original1024.jpg","category":"Insekten"}
